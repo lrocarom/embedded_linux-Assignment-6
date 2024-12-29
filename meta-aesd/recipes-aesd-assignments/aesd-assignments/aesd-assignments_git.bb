@@ -10,6 +10,7 @@ LIC_FILES_CHKSUM = "file://${COMMON_LICENSE_DIR}/MIT;md5=0835ade698e0bcf8506ecda
 
 # TODO: Set this  with the path to your assignments rep.  Use ssh protocol and see lecture notes
 # about how to setup ssh-agent for passwordless access
+
 SRC_URI = "git://git@github.com/lrocarom/embedded_linux-Assignment-3.git;protocol=ssh;branch=assigment6_p2"
 
 PV = "1.0+git${SRCPV}"
